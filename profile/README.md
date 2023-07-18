@@ -1,17 +1,17 @@
-![DATAYAKOFLOATING](https://github.com/datayako/.github/assets/39657169/c42592fb-4aab-4df2-9817-7730391e9c40)# Datayako
+#### Datayako
 
 [![PyPI version](https://badge.fury.io/py/datayako.svg)](https://pypi.org/project/datayako/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/datayako.svg)](https://pypi.org/project/datayako/)
 [![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red)](https://www.youtube.com/channel/your_youtube_channel)
 [![GitHub](https://img.shields.io/badge/View%20on-GitHub-lightgrey)](https://github.com/your_github_repo)
 
-<div align="center">
-<img src="media/small.svg" alt="Datayako Logo" width="400px">
-</div>
+
 
 <div align="center">
-<h1>DataYako - Data Engineering Company</h1>
+<h1>DataYako - A Data  Company</h1>
 </div>
+
+![DATAYAKOFLOATING](https://github.com/datayako/.github/assets/39657169/c42592fb-4aab-4df2-9817-7730391e9c40)
 
 ## Overview
 
