@@ -1,4 +1,4 @@
-# Datayako
+![DATAYAKOFLOATING](https://github.com/datayako/.github/assets/39657169/c42592fb-4aab-4df2-9817-7730391e9c40)# Datayako
 
 [![PyPI version](https://badge.fury.io/py/datayako.svg)](https://pypi.org/project/datayako/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/datayako.svg)](https://pypi.org/project/datayako/)
