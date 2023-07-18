@@ -19,19 +19,9 @@ DataYako is a leading data engineering company that specializes in designing, bu
 ### Services
 </div>
 
-#### 1. Data Pipeline Development
+`Data Pipeline Development` | `Data Warehousing` | `Big Data Processing` | `Real-time Data Streaming` | `Data Governance and Security` | `Cloud Data Solutions`
 
-#### 2. Data Warehousing
-
-#### 3. Big Data Processing
-
-#### 4. Real-time Data Streaming
-
-#### 5. Data Governance and Security
-
-#### 6. Cloud Data Solutions
-
-### Industries We Serve
+#### Industries We Serve
 
 DataYako caters to a wide range of industries, including:
 
