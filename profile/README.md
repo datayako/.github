@@ -48,17 +48,17 @@ Energy and Utilities:
 
 #### Why Choose DataYako?
 
-**Expertise:** Our team consists of highly skilled data engineers with extensive experience in designing and implementing data engineering solutions across various industries and technologies.
+>**Expertise:** Our team consists of highly skilled data engineers with extensive experience in designing and implementing data engineering solutions across various industries and technologies.
 
-**Tailored Solutions:** We understand that each organization has unique requirements. We provide customized solutions that align with your specific business needs, ensuring that you get the most value from your data.
+>**Tailored Solutions:** We understand that each organization has unique requirements. We provide customized solutions that align with your specific business needs, ensuring that you get the most value from your data.
 
-**Scalability:** Our solutions are designed to scale with your data growth. We architect scalable data pipelines and infrastructure that can handle increasing volumes of data and growing analytics demands.
+>**Scalability:** Our solutions are designed to scale with your data growth. We architect scalable data pipelines and infrastructure that can handle increasing volumes of data and growing analytics demands.
 
-**Reliability:** We prioritize building robust and fault-tolerant systems to ensure the availability and integrity of your data. Our solutions are designed for high performance, durability, and data consistency.
+>**Reliability:** We prioritize building robust and fault-tolerant systems to ensure the availability and integrity of your data. Our solutions are designed for high performance, durability, and data consistency.
 
-**Security:** Data security and privacy are embedded in our solutions from the ground up. We implement industry-standard security practices, encryption techniques, and access controls to protect sensitive information.
+>**Security:** Data security and privacy are embedded in our solutions from the ground up. We implement industry-standard security practices, encryption techniques, and access controls to protect sensitive information.
 
-**Continuous Support:** We provide ongoing support and maintenance services to ensure the smooth operation of your data infrastructure. Our dedicated support team is available to address any issues, perform regular system checks, and provide proactive recommendations for optimization and improvement.
+>**Continuous Support:** We provide ongoing support and maintenance services to ensure the smooth operation of your data infrastructure. Our dedicated support team is available to address any issues, perform regular system checks, and provide proactive recommendations for optimization and improvement.
 
 #### Contact Us
 
