@@ -1,11 +1,12 @@
+<div align="center">
+
 #### Datayako
 
 [![PyPI version](https://badge.fury.io/py/datayako.svg)](https://pypi.org/project/datayako/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/datayako.svg)](https://pypi.org/project/datayako/)
 [![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red)](https://www.youtube.com/channel/your_youtube_channel)
 [![GitHub](https://img.shields.io/badge/View%20on-GitHub-lightgrey)](https://github.com/your_github_repo)
-
-
+</div>
 
 <div align="center">
 <h1>DataYako - A Data  Company</h1>
