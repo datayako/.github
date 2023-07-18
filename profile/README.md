@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/View%20on-GitHub-lightgrey)](https://github.com/your_github_repo)
 
 <div align="center">
-<img src="./media/small.svg" alt="Datayako Logo" width="400px">
+<img src="media/small.svg" alt="Datayako Logo" width="400px">
 </div>
 
 <div align="center">
