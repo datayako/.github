@@ -9,9 +9,8 @@
 
 <div align="center">
 <h1>DataYako - A Data  Company</h1>
-</div>
 
-![DATAYAKOFLOATING](https://github.com/datayako/.github/assets/39657169/c42592fb-4aab-4df2-9817-7730391e9c40)
+![small](https://github.com/datayako/.github/assets/39657169/b301662d-1c32-4281-ba95-cdbe4fc2d749)
 
 ## Overview
 
