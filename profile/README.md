@@ -41,7 +41,7 @@ Data security and governance are paramount in the modern data landscape. DataYak
 #### 6. Cloud Data Solutions
 
 DataYako has expertise in building cloud-based data solutions using platforms like Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure. Our data engineers assist organizations in migrating their data infrastructure to the cloud, leveraging the scalability, flexibility, and cost-efficiency of cloud computing. We design and implement cloud data architectures that optimize storage, processing, and analytics capabilities for improved performance and cost-effectiveness. Whether you require data storage, processing, or analytics in the cloud, DataYako can help you leverage the full potential of cloud technologies.
-
+</div>
 ### Industries We Serve
 
 DataYako caters to a wide range of industries, including:
