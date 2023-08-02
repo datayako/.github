@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<h1>DataYako - A Data  Company</h1>
+<h3>DataYako - A Data  Company</h3>
 
 ![small](https://github.com/datayako/.github/assets/39657169/b301662d-1c32-4281-ba95-cdbe4fc2d749)
 
