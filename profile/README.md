@@ -11,8 +11,7 @@
 <div align="center">
 <h3>DataYako - A Data  Company</h3>
 
-  
-![LOGODATS](https://github.com/datayako/.github/assets/39657169/50e78428-e20f-492f-8bd6-0685faae1d0d)
+![sm2023](https://github.com/datayako/.github/assets/39657169/e06b490a-137b-432f-b57b-56b557b7bda3)
 
 
 ## Overview
