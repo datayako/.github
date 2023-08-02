@@ -10,8 +10,10 @@
 
 <div align="center">
 <h1>DataYako - A Data  Company</h1>
+  
+![LOGODATS](https://github.com/datayako/.github/assets/39657169/50e78428-e20f-492f-8bd6-0685faae1d0d)
 
-![small](https://github.com/datayako/.github/assets/39657169/b301662d-1c32-4281-ba95-cdbe4fc2d749)
+
 
 ## Overview
 
