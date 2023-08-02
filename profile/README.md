@@ -14,8 +14,6 @@
   
 ![LOGODATS](https://github.com/datayako/.github/assets/39657169/50e78428-e20f-492f-8bd6-0685faae1d0d)
 
->>>>>>> 92f87944bd55b69711f799bb3218e411abbacfe8
-
 
 ## Overview
 
