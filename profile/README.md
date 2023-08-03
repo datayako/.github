@@ -11,7 +11,9 @@
 <div align="center">
 <h3>DataYako - A Data  Company</h3>
 
-![sm2023](https://github.com/datayako/.github/assets/39657169/e06b490a-137b-432f-b57b-56b557b7bda3)
+<img src="media/sm2023.svg" alt="Datayako Logo" width="400px">
+
+<!-- ![sm2023](https://github.com/datayako/.github/assets/39657169/e06b490a-137b-432f-b57b-56b557b7bda3) -->
 
 
 ## Overview
