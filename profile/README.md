@@ -1,5 +1,3 @@
-![DREAM9](https://github.com/datayako/.github/assets/39657169/89076d66-c099-4623-8b04-eae1140c83f8)<div align="center">
-
 #### Datayako
 
 [![PyPI version](https://badge.fury.io/py/datayako.svg)](https://pypi.org/project/datayako/)
