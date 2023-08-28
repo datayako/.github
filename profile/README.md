@@ -7,7 +7,7 @@
 
 ## Overview
 
-DataYako is a leading data engineering company that specializes in designing, building, and maintaining robust data infrastructure solutions. Our team of highly skilled data engineers combines technical expertise with a deep understanding of business needs to provide tailored solutions that enable organizations to effectively manage and analyze their data.
+Datayako is a leading data company that specializes in designing, building, and maintaining robust data infrastructure solutions. Our team of highly skilled data engineers combines technical expertise with a deep understanding of business needs to provide tailored solutions that enable organizations to effectively manage and analyze their data.
 
 ### Services
 </div>
